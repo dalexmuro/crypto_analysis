@@ -1,10 +1,7 @@
-import math
 import json
 import gspread
 import pandas as pd
 import streamlit as st
-import matplotlib as plt
-from pathlib import Path
 from google.oauth2.service_account import Credentials
 
 # Set the title and favicon that appear in the Browser's tab bar.
